@@ -1,3 +1,9 @@
+// Description: 
+// The challenge is to add up all the values ​​of an array
+
+
+
+
 
 const arrayReduce = [1, 2, 3, 4, 5];
 function sum(result, num){
